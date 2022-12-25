@@ -142,7 +142,7 @@ header a:hover {
 }
 
 .menu-display-card {
-    width: 400px;
+    min-width: 400px;
     height: 370px;
     padding: 30px;
     display: flex;
